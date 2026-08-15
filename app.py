@@ -12,7 +12,7 @@ st.set_page_config(
     page_icon="👤",
     layout="wide"
 )
-st.image("2.jpg")
+st.image("Nam_A_Bank_Logo-2.jpg")
 
 # ==========================================
 # KHỞI TẠO DANH SÁCH KHÁCH HÀNG
